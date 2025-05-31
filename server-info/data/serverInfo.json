@@ -1,0 +1,46 @@
+{
+  "server_name": "! RC3-BASEMAPS",
+  "country_code": "us",
+  "mode": "Conquest Large",
+  "region": "Lancang Dam",
+  "mode_type": "custom",
+  "server_info":"Server protected by The K-50 AntiCheat. Rules, Questions, Request, Appeal, Visit us: www.epg.gg | Discord",
+  "ping": 104,
+  "tickrate": 60,
+  "players": {
+    "current": 60,
+    "max": 64
+  },
+  "rating": "13672",
+  "settings": {
+    "region": "Europe - DE",
+    "punkbuster": true,
+    "fairfight": true,
+    "password": false,
+    "preset": "normal"
+  },
+  "advanced": {
+    "minimap": true,
+    "only squad leader spawn": false,
+    "vehicles": true,
+    "team balance": true,
+    "minimap spotting": true,
+    "hud": true,
+    "3p vehicle cam": true,
+    "regenerative health": true,
+    "kill cam": true,
+    "friendly fire": false,
+    "3d spotting": true,
+    "enemy name tags": true
+  },
+  "rules": {
+    "tickets": 400,
+    "vehicle spawn delay": 25,
+    "bullet damage": 100,
+    "kick after team kills": 5,
+    "player health": 100,
+    "player respawn time": 100,
+    "kick after idle": 300,
+    "ban after kicks": 3
+  }
+}
